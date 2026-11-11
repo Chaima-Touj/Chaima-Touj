@@ -112,18 +112,17 @@ Explore concepts such as **Crystal Rent Car**, **Star Box Events**, **AMY Porte*
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chaima-Touj&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=D8B4FE&text_color=E9D5FF&icon_color=C084FC&include_all_commits=true" alt="Chaima's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaima-Touj&layout=compact&langs_count=8&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=D8B4FE&text_color=E9D5FF" alt="Most used programming languages" />
+  <img src="./assets/github-stats.svg" alt="GitHub contribution and streak statistics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chaima-Touj&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=E879F9&currStreakLabel=D8B4FE" alt="GitHub contribution streak" width="80%" />
+  <img src="./assets/github-languages.svg" alt="Programming language statistics" width="100%" />
 </p>
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaima-Touj&bg_color=0D1117&color=E9D5FF&line=A855F7&point=E879F9&area=true&hide_border=true&custom_title=Chaima%20Touj%27s%20Contribution%20Graph" alt="GitHub contribution activity graph" width="100%" />
+  <img src="./assets/github-contributions.svg" alt="GitHub contribution calendar" width="100%" />
 </p>
 
 ---
