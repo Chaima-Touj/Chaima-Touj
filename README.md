@@ -1,71 +1,138 @@
-# 👋 Bonjour, je suis Chaima Touj
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16002B,45:581C87,100:C026D3&height=220&section=header&text=Chaima%20Touj&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&descAlignY=60&descSize=16" alt="Chaima Touj — Junior Full Stack Web Developer" width="100%" />
+</p>
 
-🎓 Étudiante en BTS Informatique de Gestion  
-💻 Développeuse Web & Mobile passionnée  
-🚀 À la recherche d’un stage (juillet – août)
-
----
-
-## 💡 À propos de moi
-Je suis passionnée par le développement et la création d’applications web et mobiles modernes.  
-Je travaille sur des projets concrets orientés gestion, automatisation et productivité.
-
----
-
-## 🛠️ Compétences techniques
-
-**Frontend :**  
-HTML • CSS • JavaScript • React • React Native  
-
-**Backend :**  
-Node.js • Express.js • PHP  
-
-**Base de données :**  
-MongoDB • SQL  
-
-**Outils :**  
-Git • GitHub • Postman
+<p align="center">
+  <a href="mailto:chaimaatouj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-C026D3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/touj-chaima-0936ab366/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Chaima-Touj"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Chaima-Touj/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-A855F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio repository" /></a>
+</p>
 
 ---
 
-## 🚀 Projets
+## About Me
 
-### 🔹 StageFlow – Gestion des stages (Web & Mobile)
-Plateforme complète pour gérer les stages entre étudiants et entreprises :
-- Gestion des offres de stage  
-- Candidatures et suivi des statuts  
-- Interface web + application mobile  
-- Tableau de bord utilisateur  
+I'm **Chaima Touj**, a Junior Full Stack Web Developer from Tunisia, passionate about building modern web applications that combine clean interfaces, useful features and reliable back-end architecture.
 
-🔗 GitHub : https://github.com/Chaima-Touj/stageflow
+- Graduate in **BTS Informatique de Gestion — Development**, IMSET.
+- **Top of my graduating class**, with an overall average of **17.65/20**.
+- Hands-on experience building full-stack applications with the **MERN stack**.
+- Interested in UI/UX, REST API development, database design and turning real needs into practical digital products.
 
-🔗 GitHub : https://github.com/Chaima-Touj/stageflow-mobile
+I enjoy working across the full development cycle — from understanding an idea and designing the interface to building APIs, connecting databases and delivering a working application.
 
 ---
 
-### 🔹 Smart ERP – Système de gestion intelligent
-Application de gestion pour entreprises :
-- Gestion des utilisateurs et rôles  
-- Automatisation des processus  
-- Dashboard avec statistiques  
-- Architecture scalable  
+## Tech Stack
 
-🔗 GitHub : https://github.com/Chaima-Touj/Smart-ERP
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML, CSS, JavaScript, React and Vite" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql&theme=dark" alt="Node.js, Express, PHP, MongoDB and MySQL" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" alt="Java, Python, C and C++" />
+</p>
+
+### Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" alt="Git, GitHub, Postman, Figma and VS Code" />
+</p>
 
 ---
 
-## 🎯 Objectifs
-- Développer des applications professionnelles réelles  
-- Améliorer mes compétences full-stack  
-- Travailler sur des projets innovants  
-- Trouver un stage PFE enrichissant  
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Chaima-Touj/TheBridgeFlow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaima-Touj&repo=TheBridgeFlow&theme=midnight-purple&hide_border=true" alt="TheBridgeFlow repository card" width="100%" />
+      </a>
+      <p><strong>TheBridgeFlow</strong><br />A platform for managing training, internships, applications, interviews and follow-up, with collaboration and AI-assisted features.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Chaima-Touj/Smart-ERP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaima-Touj&repo=Smart-ERP&theme=midnight-purple&hide_border=true" alt="Smart ERP repository card" width="100%" />
+      </a>
+      <p><strong>Smart ERP</strong><br />A business management project focused on organizing workflows, information and management operations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Chaima-Touj/stageflow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaima-Touj&repo=stageflow&theme=midnight-purple&hide_border=true" alt="StageFlow repository card" width="100%" />
+      </a>
+      <p><strong>StageFlow</strong><br />An internship-management application covering internship offers, student applications and application tracking.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Chaima-Touj/Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaima-Touj&repo=Portfolio&theme=midnight-purple&hide_border=true" alt="Portfolio repository card" width="100%" />
+      </a>
+      <p><strong>Personal Portfolio</strong><br />A collection of web experiences and interface concepts, including business, travel, retail and event projects.</p>
+    </td>
+  </tr>
+</table>
+
+### More work from my portfolio
+
+Some of the showcased concepts include **Crystal Rent Car**, **Star Box Events**, **AMY Porte**, **Amelia Voyages**, **See You Store** and other business websites.
+
+[Explore my Portfolio repository →](https://github.com/Chaima-Touj/Portfolio)
 
 ---
 
-## 📫 Contact
-📧 Email : chaimaatouj@gmail.com  
-🔗 LinkedIn : linkedin.com/in/touj-chaima-0936ab366/ 
+## Professional Experience
+
+### Full Stack Web Developer Intern — BeeCoders
+**June 2026 – August 2026**
+
+- Worked on a custom web platform using the MERN stack.
+- Contributed to front-end and back-end development with React and Node.js.
+- Took part in building a practical solution designed for real-world use.
 
 ---
 
-⭐ *“Build real things, not just code.”*
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chaima-Touj&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=D8B4FE&text_color=E9D5FF&icon_color=C084FC&include_all_commits=true" alt="Chaima's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaima-Touj&layout=compact&langs_count=8&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=D8B4FE&text_color=E9D5FF" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chaima-Touj&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=E879F9&currStreakLabel=D8B4FE" alt="GitHub contribution streak" width="80%" />
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaima-Touj&bg_color=0D1117&color=E9D5FF&line=A855F7&point=E879F9&area=true&hide_border=true&custom_title=Chaima%20Touj%27s%20Contribution%20Graph" alt="GitHub contribution activity graph" width="100%" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm always interested in meaningful projects, collaboration and opportunities to build useful digital products.
+
+<p align="center">
+  <a href="mailto:chaimaatouj@gmail.com"><img src="https://img.shields.io/badge/Email-chaimaatouj%40gmail.com-C026D3?style=flat-square&logo=gmail&logoColor=white" alt="Email Chaima" /></a>
+  <a href="https://www.linkedin.com/in/touj-chaima-0936ab366/"><img src="https://img.shields.io/badge/LinkedIn-Chaima%20Touj-7E22CE?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+</p>
+
+<p align="center">
+  <i>Building thoughtful experiences, one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16002B,45:581C87,100:C026D3&height=110&section=footer" alt="" width="100%" />
+</p>
