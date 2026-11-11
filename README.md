@@ -17,7 +17,7 @@
 I'm **Chaima Touj**, a Junior Full Stack Web Developer from Tunisia, passionate about building modern web applications that combine clean interfaces, useful features and reliable back-end architecture.
 
 - Graduate in **BTS Informatique de Gestion — Development**, IMSET.
-- **Top of my graduating class**, with an overall average of **17.65/20**.
+- **Top of my graduating class**, with an overall average of **18.65/20**.
 - Hands-on experience building full-stack applications with the **MERN stack**.
 - Interested in UI/UX, REST API development, database design and turning real needs into practical digital products.
 
