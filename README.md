@@ -53,38 +53,46 @@ I enjoy working across the full development cycle — from understanding an idea
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Chaima-Touj/TheBridgeFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaima-Touj&repo=TheBridgeFlow&theme=midnight-purple&hide_border=true" alt="TheBridgeFlow repository card" width="100%" />
+        <img src="./assets/projects/thebridgeflow.svg" alt="TheBridgeFlow project preview" width="100%" />
       </a>
-      <p><strong>TheBridgeFlow</strong><br />A platform for managing training, internships, applications, interviews and follow-up, with collaboration and AI-assisted features.</p>
+      <h3>TheBridgeFlow</h3>
+      <p>A full-stack platform for training, internships, PFE applications, interviews, messaging and AI-assisted student support.</p>
+      <p><a href="https://github.com/Chaima-Touj/TheBridgeFlow">View repository →</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Chaima-Touj/Smart-ERP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaima-Touj&repo=Smart-ERP&theme=midnight-purple&hide_border=true" alt="Smart ERP repository card" width="100%" />
+        <img src="./assets/projects/smart-erp.svg" alt="Smart ERP project preview" width="100%" />
       </a>
-      <p><strong>Smart ERP</strong><br />A business management project focused on organizing workflows, information and management operations.</p>
+      <h3>Smart ERP</h3>
+      <p>A business management project designed to organize workflows, company information and operational activities.</p>
+      <p><a href="https://github.com/Chaima-Touj/Smart-ERP">View repository →</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Chaima-Touj/stageflow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaima-Touj&repo=stageflow&theme=midnight-purple&hide_border=true" alt="StageFlow repository card" width="100%" />
+        <img src="./assets/projects/stageflow.svg" alt="StageFlow project preview" width="100%" />
       </a>
-      <p><strong>StageFlow</strong><br />An internship-management application covering internship offers, student applications and application tracking.</p>
+      <h3>StageFlow</h3>
+      <p>An internship-management web application for students, companies and administrators, with offers, applications and tracking.</p>
+      <p><a href="https://github.com/Chaima-Touj/stageflow">View repository →</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Chaima-Touj/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaima-Touj&repo=Portfolio&theme=midnight-purple&hide_border=true" alt="Portfolio repository card" width="100%" />
+        <img src="./assets/projects/portfolio.svg" alt="Personal portfolio preview" width="100%" />
       </a>
-      <p><strong>Personal Portfolio</strong><br />A collection of web experiences and interface concepts, including business, travel, retail and event projects.</p>
+      <h3>Personal Portfolio</h3>
+      <p>A modern React portfolio featuring interactive 3D visuals, project showcases, skills, experience and contact sections.</p>
+      <p><a href="https://github.com/Chaima-Touj/Portfolio">View repository →</a></p>
     </td>
   </tr>
 </table>
 
 ### More work from my portfolio
 
-Some of the showcased concepts include **Crystal Rent Car**, **Star Box Events**, **AMY Porte**, **Amelia Voyages**, **See You Store** and other business websites.
+Explore concepts such as **Crystal Rent Car**, **Star Box Events**, **AMY Porte**, **Amelia Voyages**, **See You Store** and other business websites.
 
 [Explore my Portfolio repository →](https://github.com/Chaima-Touj/Portfolio)
 

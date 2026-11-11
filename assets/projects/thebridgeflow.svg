@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf5ff"/><stop offset="1" stop-color="#f8fbff"/></linearGradient><linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+<rect width="1200" height="620" rx="34" fill="url(#bg)"/><circle cx="1030" cy="115" r="215" fill="#60a5fa" opacity=".12"/>
+<rect x="50" y="42" width="1100" height="536" rx="26" fill="#fff" stroke="#d6e4f4" stroke-width="2"/>
+<rect x="50" y="42" width="1100" height="62" rx="26" fill="#fff"/><rect x="50" y="78" width="1100" height="26" fill="#fff"/>
+<circle cx="88" cy="73" r="15" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/><path d="M82 73h12m-6-6v12" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round"/>
+<text x="116" y="82" fill="#14233b" font-size="25" font-family="Arial,sans-serif" font-weight="700">TheBridgeFlow</text>
+<g fill="#63758e" font-family="Arial,sans-serif" font-size="16"><text x="510" y="80">Accueil</text><text x="600" y="80">Stages</text><text x="672" y="80">Formations</text><text x="790" y="80">Événements</text><text x="930" y="80">À propos</text></g>
+<rect x="1000" y="58" width="118" height="32" rx="16" fill="#2563eb"/><text x="1059" y="80" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="700">S'inscrire</text>
+<text x="100" y="168" fill="#2563eb" font-size="18" font-family="Arial,sans-serif" font-weight="700">FORMATION · STAGE · ENCADREMENT PFE</text>
+<text x="100" y="246" fill="#101d34" font-size="55" font-family="Arial,sans-serif" font-weight="700">Développez vos</text><text x="100" y="310" fill="#101d34" font-size="55" font-family="Arial,sans-serif" font-weight="700">compétences</text>
+<text x="100" y="374" fill="#2563eb" font-size="55" font-family="Arial,sans-serif" font-weight="700">et réussissez votre</text><text x="100" y="438" fill="#2563eb" font-size="55" font-family="Arial,sans-serif" font-weight="700">projet professionnel</text>
+<text x="104" y="486" fill="#60748e" font-size="18" font-family="Arial,sans-serif">Une plateforme pour les formations, stages et projets de fin d'études.</text>
+<rect x="100" y="516" width="216" height="42" rx="11" fill="url(#blue)"/><text x="208" y="543" text-anchor="middle" fill="#fff" font-size="16" font-family="Arial,sans-serif" font-weight="700">Découvrir les formations</text>
+<g transform="translate(810 150)"><circle cx="145" cy="140" r="128" fill="#dcecff"/><circle cx="145" cy="100" r="57" fill="#f1c8ad"/><path d="M87 97q8-90 105-60 44 23 15 92-18-46-75-39-20 27-45 29z" fill="#1c2b43"/><path d="M35 285q15-115 110-115 96 0 111 115z" fill="#2780d8"/><path d="M99 173l45 48 48-48" fill="none" stroke="#fff" stroke-width="8" opacity=".8"/><circle cx="45" cy="72" r="9" fill="#fbbf24"/><circle cx="270" cy="195" r="13" fill="#60a5fa"/><path d="M260 72l12 12m0-12-12 12" stroke="#2563eb" stroke-width="4" stroke-linecap="round"/></g>
+</svg>
